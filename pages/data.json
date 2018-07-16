@@ -1,0 +1,103 @@
+[{
+  "title": "Amis Moedict (阿美語萌典)",
+  "slack": ["wildjcrt"],
+  "tags": ["Language", "LndigenousPeoples", "Dictionary"],
+  "description": [
+    "’Amis/Pangcah Dictionary, an online ’Amis to Chinese / English / French dictionary, was established with the power of citizens to preserve the once considered soon-to-disappear indigenous language.",
+    "In Taiwan, there are 16 different indigenous nations. Though their languages never developed into writing system, detailed records have been made with the efforts of missionaries and cultural heritage inheritors.",
+    "The ’Amis/Pangcah Dictionary is the first example of an digitized, online indigenous language dictionary. We hope that others can develop their own online dictionaries, too."
+  ],
+  "website": ["https://amis.moedict.tw/"],
+  "document": ["http://bit.ly/2zhlt2t"],
+  "github": ["https://github.com/g0v/amis-moedict"]
+}, {
+  "title": "Legislator Voting Guide (投票指南)",
+  "slack": ["johnny"],
+  "tags": ["Parliament", "Voting", "Democracy"],
+  "description": [
+    "We would like to know what they did, not what they says which is pie in the sky.",
+    "This is what we finally present to citizen, including their standpoints, voting record, bills, attendance record, political contributions and personal property of the candidates.",
+    "No paternalism, we don’t grade candidates, we are not giving advice who you should vote, everyone can evaluate by their own, we're walking on the path from electoral bulletin to next goal in Taiwan."
+  ],
+  "website": ["https://councils.g0v.tw/", "https://vote.ly.g0v.tw/"],
+  "document": ["https://beta.hackfoldr.org/voter_guide_tw"],
+  "github": ["https://git.io/fNTLY", "https://git.io/fNTLZ"]
+}, {
+  "title": "Cofacts (真的假的)",
+  "slack": ["mrorz"],
+  "tags": ["News", "FakeNews", "Mis-Information", "Dis-Information"],
+  "description": [
+    "Cofacts is a collaborative system connecting instant messages and fact-check reports together. It’s a grass-root effort fighting mis/disinformation in Taiwan.",
+    "To be more specific,",
+    "Collaborative system: Anyone can forward messages to Cofacts. Furthermore, anyone can become an editor to collaborate on the website. All works is distributed via CC0 License.",
+    "Instant messages: User-reported instant messages in LINE messaging network, collected via a chatbot",
+    "Fact-check reports: Existing fact-checking articles the editors found on the internet, or replies written by the editors."
+  ],
+  "website": ["https://cofacts.g0v.tw/"],
+  "document": ["https://beta.hackfoldr.org/cofacts"],
+  "github": ["https://github.com/cofacts"]
+}, {
+  "title": "Campaign Finance Crowdsourcing (政治獻金數位化)",
+  "slack": ["ronnywang"],
+  "tags": ["Democracy"],
+  "description": [
+    "In Taiwan, politician campaign finance data is only available in paper format. To open the data, this project conducted captcha-like game to crowdsourcing OCR on 2637 pages of Control Yuan's non-digitized version of political contributions data.",
+    "Total 309k entries are translated into organized data and web API within 24 hours."
+  ],
+  "website": ["https://campaign-finance.g0v.ctiml.tw/"],
+  "document": ["http://facebook.com/cy.sunshine/"],
+  "github": ["https://git.io/fNUji"]
+}, {
+  "title": "g0v Air Quality Monitor (g0v 零時空汙觀測網)",
+  "slack": ["asper_hsu"],
+  "tags": ["Environment", "AirQuality"],
+  "description": [
+    "The integration of all air pollution monitoring station observations with various sources of emissions data for visualization on the map that is real-time dynamic tracking.."
+  ],
+  "website": ["https://airmap.g0v.asper.tw/v5/"],
+  "document": ["https://www.facebook.com/g0vairmap/"],
+  "github": ["https://github.com/Aspertw"]
+}, {
+  "title": "HackFoldr 2.0",
+  "slack": ["irvin", "etblue"],
+  "tags": ["Collaboration", "Tools", "Folder"],
+  "description": [
+    "Hackfoldr is hacking briefcase. It is a tool developed to organize documents, websites, and online materials on one interface with a unified url.",
+    "Users can set up and manage a hackfoldr simply by editing a Google spreadsheet. Hackfoldr has been used to manage hackathon projects, to provide a collaborative space for government agencies, and to serve as an information hub for events such as the Sunflower Movement and the Umbrella Revolution, among many others."
+  ],
+  "website": ["http://beta.hackfoldr.org/"],
+  "document": [""],
+  "github": ["https://github.com/hackfoldr/hackfoldr-2.0"]
+}, {
+  "title": "HackFoldr 2.0",
+  "slack": ["irvin", "etblue"],
+  "tags": ["Collaboration", "Tools", "Folder"],
+  "description": [
+    "Hackfoldr is hacking briefcase. It is a tool developed to organize documents, websites, and online materials on one interface with a unified url.",
+    "Users can set up and manage a hackfoldr simply by editing a Google spreadsheet. Hackfoldr has been used to manage hackathon projects, to provide a collaborative space for government agencies, and to serve as an information hub for events such as the Sunflower Movement and the Umbrella Revolution, among many others."
+  ],
+  "website": ["http://beta.hackfoldr.org/"],
+  "document": [""],
+  "github": ["https://github.com/hackfoldr/hackfoldr-2.0"]
+}, {
+  "title": "Moedict (萌典)",
+  "slack": ["au"],
+  "tags": ["Language", "Dictionary"],
+  "description": [
+    "As an improved version of Ministry of Education's online Dictionary at the beginning, Moedict has become the most popular online dictionary with million pages views per month and 100k mobile app users.",
+    "It now includes Mandarin / Taiwanese / Hakka / English / French / Germany languages and information like character stroke order and pronunciation."
+  ],
+  "website": ["https://www.moedict.tw/"],
+  "document": ["http://x.co/moedict"],
+  "github": ["https://github.com/g0v/moedict-webkit"]
+}, {
+  "title": "National Treasures (遺落在世界的國家寶藏)",
+  "slack": ["hsiao-a"],
+  "tags": ["Archive", "History"],
+  "description": [
+    "Taiwan National Treasures' uses crowdsourcing and gamification to digitize image files from historical archives. The project looks to open up some closed Taiwanese archives once kept away in overseas archives."
+  ],
+  "website": ["http://nationaltreasure.tw/"],
+  "document": ["https://www.facebook.com/twnationaltreasure"],
+  "github": ["https://github.com/national-treasures-tw"]
+}]
