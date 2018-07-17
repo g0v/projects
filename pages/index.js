@@ -20,6 +20,27 @@ const Wrapper = styled.div`
   }
 `;
 
+const Button = styled.a`
+  display: block;
+  padding: 1rem;
+  background-color: #A93325;
+  border-radius: 3px;
+  color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  &:hover {
+    color: white;
+    background-color: #B04332;
+  }
+  &:active {
+    color: white;
+    background-color: #803124;
+  }
+`;
+
 class Index extends React.PureComponent {
   render() {
     return (
@@ -66,6 +87,7 @@ class Index extends React.PureComponent {
             </article>
           </div>
         ))}
+        <Button title="Click to join g0v on Slack" href="http://join.g0v.today/">Join g0v on Slack</Button>
       </Wrapper>
     );
   }
